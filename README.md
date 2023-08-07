@@ -1,4 +1,6 @@
-# ERC721 Drop Claim Page
+# Base x Galxe x NFTEarth NFT Mint
+
+![png_20230731_121525_0000](https://github.com/NFTEarth/base-galxe-nft-drop/assets/29180454/759dc6cb-609f-4588-9851-0f8ba0fc63c0)
 
 In this example, you can create your own ERC721 Drop claim page just by customizing the template with your branding and plugging in your NFT Drop contract address.
 
